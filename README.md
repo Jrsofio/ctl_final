@@ -2,6 +2,8 @@
 Final project links and biography
 
 Framing
+
+
 	This purpose of this project was to turn an existing Massachusetts Probation Service resource document into an interactive Q and A bot. The document that is the subject of this project was provided to me by Juvenile Detention Alternatives Initiative Coordinator Mindy Schiedler and includes both a flow chart and guiding information to assist juveniles on probation with probation violation hearings. These documents may be accessed in their original form in the repo.
 	I worked closely with Ms. Sadler to create an interactive QnA platform that displays the same information contained in the original document. The goal of creating this product was to provide those individuals and families involved with probation an opportunity to access necessary information in a fast, clear, and engaging way. The program’s reach is limited to those individuals who are already in the probation system and is not intended to substitute for legal advice. 
 Research
